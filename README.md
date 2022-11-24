@@ -11,6 +11,7 @@ Census data- Census data will help us find out the population of the and the ave
 # Model
 The elbow method is used to determine the total number of clusters that can be made in a dataset. For the k means clustering, the clusters has to be predetermined to form the clusters and that's why we use elbow method to determine the number and the total clusters made in the neighbourhood venues. We create a data frame using top venues and cluster labels.
 
+In k means clustering we will predetermine the number of clusters. We will be making groups of cluster based on the distance between the points(minimum distance). If these cluster of points are similar to each other in some way, they form a cluster. There is a high chance of the results affecting because of the outliers so we need to be vary of them in order to get an accurate result.
 
 
 # Methodology
