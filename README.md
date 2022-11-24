@@ -1,8 +1,7 @@
-# herehack_s5_Three
-
-Web scraping on Wikipedia will be used for learning purposes. We will be working directly with the neighbourhoods and ignore all the districts because that will help in more granular analysis of the areas.
+## herehack_s5_Three
 
 # Gathering Data
+Web scraping on Wikipedia will be used for learning purposes. We will be working directly with the neighbourhoods and ignore all the districts because that will help in more granular analysis of the areas.
 
 Geospatial data- To analyse venues present in each neighbourhood, we will be targeting residential areas. Using the HERE Geocoding & Search API, we will be able to explore different venues. Before using HERE API, we need to convert the neighbourhood names into pairs of latitude and longitude coordinates.
 
