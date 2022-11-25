@@ -1,4 +1,4 @@
-## herehack_s5_Three
+# herehack_s5_Three
 
 # Gathering Data
 Web scraping on Wikipedia will be used for learning purposes. We will be working directly with the neighbourhoods and ignore all the districts because that will help in more granular analysis of the areas.
